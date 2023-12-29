@@ -18,4 +18,4 @@ Link to deployed code:  <https://github.com/shannontice/Daily-Planner>
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-![The daily planner includes the current date and hour time blocks from 9am to 5pm. There are buttons on each time block to save the user entries and the blocks are color coated to show whether that hour is in the past,present or future.](./Images/CoverPage.png)
+![The daily planner includes the current date and hour time blocks from 9am to 5pm. There are buttons on each time block to save the user entries and the blocks are color coated to show whether that hour is in the past,present or future.](./Plannerpt1.png,./Plannerpt2)
